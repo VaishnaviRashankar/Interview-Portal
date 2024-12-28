@@ -22,3 +22,7 @@ This project is an **Interview Management System** built using **React**. It pro
 - A backend API to handle interview scheduling and participant management
 - **Jitsi Meet** integration (or any other video conferencing tool of choice)
 
+Features in Progress
+Enhanced participant role differentiation (e.g., interviewer and candidate).
+Notification system for interview reminders.
+Calendar integration for easier scheduling.
