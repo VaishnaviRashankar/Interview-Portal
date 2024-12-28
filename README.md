@@ -1,6 +1,6 @@
 # Interview Management System
 
-This project is an **Interview Management System** built using **React**. It provides an intuitive platform for managing interviews, scheduling them, tracking their status, and integrating video calls directly into the system.
+This project is an **Interview_Portal(Interview Management System)** built using **React**. It provides an intuitive platform for managing interviews, scheduling them, tracking their status, and integrating video calls directly into the system.
 
 ## Features
 
